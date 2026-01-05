@@ -1,0 +1,7 @@
+Perspective Projection
+
+Given: (x, y, z)
+x' = x/z
+y' = y/z
+
+Tsoding Video: `https://youtu.be/qjWkNZ0SXfo`
